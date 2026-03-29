@@ -6,12 +6,6 @@ const newNumber = numbers.map((number)=>{
 console.log(newNumber);
 
 
-
-
-
-
-
-
 // Crea un nuovo array in cui tutti i numeri siano incrementati di 1
 // Risultato: [3, 9, 5, 8, 3, 88]
 
